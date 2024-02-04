@@ -16,12 +16,12 @@ Creating a program that takes a large dataset in displays it as a Bar Chart usin
 </div>
 ```
 
-> I used D#.js to visualize the data
+> I used D3.js to visualize the data
 
 ### What was the aim?
 * Using a large dataset
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
-[*Bar Chart in D3* by Kutz](https://codepen.io/kutzz/pen/VwgYOJx)
+[*Bar Chart in D3* by Kutz](https://codepen.io/kutzz/pen/PoVbONN)
 
