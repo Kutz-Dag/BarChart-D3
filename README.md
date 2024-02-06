@@ -4,7 +4,7 @@
 Creating a program that takes a large dataset in displays it as a Bar Chart using D3.js
 
 ### The bar-chart should look similar to this:
-![image](#https://shots.codepen.io/username/pen/GrZVaM-800.jpg?version=1632988410)
+![image](https://shots.codepen.io/username/pen/GrZVaM-800.jpg?version=1632988410)
 
 ### I used these languages to create this project
 ```html
