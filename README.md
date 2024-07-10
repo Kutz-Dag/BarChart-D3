@@ -1,7 +1,7 @@
 # Bar Chart - D3.js
 
 ## Description
-Creating a program that takes a large dataset and displays it as a Bar Chart using D3.js
+Creating a program that takes a large dataset and displays it as a Bar Chart using ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 
 ### The bar chart should look similar to this:
 ![image](https://shots.codepen.io/username/pen/GrZVaM-800.jpg?version=1632988410)
