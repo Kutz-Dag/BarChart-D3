@@ -1,7 +1,7 @@
-# Bar Chart - D3.js
+# Bar Chart with D3.js
 
 ### Description
-Creating a program that takes a large dataset and displays it as a Bar Chart using HTML, CSS, and JavaScript.
+Creating a program that takes a large dataset and displays it as a Bar Chart using HTML, CSS, and JavaScript. The project was submitted to freeCodeCamp as part of the official project certification.
 
 ### The bar chart should look similar to this:
 ![image](https://shots.codepen.io/username/pen/GrZVaM-800.jpg?version=1632988410)
